@@ -1,4 +1,4 @@
-# 🚀 Ayush Sharawat - Space-Themed Portfolio
+# 🚀 Pari - Space-Themed Portfolio
 
 A modern, interactive space-themed portfolio showcasing my journey as a Computer Science Engineering student specializing in Artificial Intelligence.
 
@@ -29,8 +29,8 @@ A modern, interactive space-themed portfolio showcasing my journey as a Computer
 - Profile information and background
 
 ### 💻 Skills & Technologies
-- Programming languages (Java, Python, C)
-- Technical skills (ML, NLP, Data Structures)
+- Programming languages (C++, Python, C)
+- Technical skills (Data Structures)
 - Tools and frameworks
 - Interactive skill progress bars
 
@@ -77,7 +77,7 @@ A modern, interactive space-themed portfolio showcasing my journey as a Computer
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ayushsharawat/portfolio-2.0.git
+   git clone https://github.com/ppp/portfolio-2.0.git
    cd portfolio-2.0
    ```
 
@@ -90,7 +90,7 @@ A modern, interactive space-themed portfolio showcasing my journey as a Computer
    ```
 
 3. **View online:**
-   - GitHub Pages: [Live Demo](https://ayushsharawat.github.io/portfolio-2.0/)
+   - GitHub Pages: [Live Demo](https://github.com/Pari2226)
 
 ## 📁 Project Structure
 
@@ -143,10 +143,10 @@ portfolio-2.0/
 
 ## 📞 Contact
 
-- **Email:** whatsupayush@gmail.com
-- **Phone:** +91 9319391078
-- **LinkedIn:** [ayushsharawat](https://www.linkedin.com/in/ayushsharawat)
-- **GitHub:** [ayushsharawat](https://github.com/ayushsharawat)
+- **Email:** officialpari24@gmail.com
+- **Phone:** +91 8395070440
+- **LinkedIn:** [pari](https://www.linkedin.com/in/pari-985b4b25a/)
+- **GitHub:** [pari](https://github.com/Pari2226)
 - **Location:** Ghaziabad, Uttar Pradesh, India
 
 ## 📄 License
@@ -164,4 +164,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **⭐ If you like this portfolio, please give it a star!**
 
-Made with ❤️ by Ayush Sharawat
+Made with ❤️ by Pari
