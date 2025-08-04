@@ -776,13 +776,13 @@ if (contactForm) {
       from_name: formData.get('name'),
       from_email: formData.get('email'),
       message: formData.get('message'),
-      to_email: 'whatsupayush@gmail.com', // Your email address
+      to_email: 'officialpari24@gmail.com', // Your email address
     };
 
     try {
       const response = await emailjs.send(
-        'service_y0tr9c6', // Replace with your actual Service ID
-        'template_8amzd8k', // Replace with your actual Template ID
+        'service_0r87qrc', // Replace with your actual Service ID
+        'template_gwgfsxd', // Replace with your actual Template ID
         templateParams
       );
 
