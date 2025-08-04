@@ -760,7 +760,7 @@ const formMessage = document.getElementById('formMessage');
 
 if (contactForm) {
   // Initialize EmailJS with your actual User ID
-  emailjs.init('RD85aIMspEE5s7Gzb'); // Replace with your actual EmailJS User ID
+  emailjs.init('hq1ZT3JSrGBs48KQD'); // Replace with your actual EmailJS User ID
 
   contactForm.addEventListener('submit', async (e) => {
     e.preventDefault();
