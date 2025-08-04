@@ -700,13 +700,13 @@ function initializeCertificates() {
   // ===== UPDATE YOUR CERTIFICATE LINKS HERE =====
   // Replace the placeholder URLs with your actual certificate links
   const certificateLinks = {
-    aws: 'https://your-aws-certificate-link.com',                    // AWS Academy Graduate - AWS Cloud Foundations
-    'ccna-enterprise': 'https://your-ccna-enterprise-link.com',      // CCNA: Enterprise Networking, Security, and Automation
-    'ccna-intro': 'https://your-ccna-intro-link.com',                // CCNA: Introduction to Networks
-    'ccna-switching': 'https://your-ccna-switching-link.com',        // CCNA: Switching, Routing, and Wireless Essentials
-    cybersecurity: 'https://your-cybersecurity-link.com',            // Introduction to Cybersecurity
-    python1: 'https://your-python1-link.com',                        // Python Essentials 1
-    python2: 'https://your-python2-link.com'                         // Python Essentials 2
+    aws: 'https://www.credly.com/badges/b437884e-3c86-4fc8-9a52-2efc8cdc0ef8/public_url',                    // AWS Academy Graduate - AWS Cloud Foundations
+    'ccna-enterprise': 'https://www.credly.com/badges/594fbaba-e67d-41b4-bfd3-d16a875bff17/public_url',      // CCNA: Enterprise Networking, Security, and Automation
+    'ccna-intro': 'https://www.credly.com/badges/c72df282-7e26-4d58-84e6-38eec5d99e2c/public_url',                // CCNA: Introduction to Networks
+    'ccna-switching': 'https://www.credly.com/badges/6754f2c1-fe94-4d71-9afb-0d109e9648ea/public_url',        // CCNA: Switching, Routing, and Wireless Essentials
+    cybersecurity: 'https://www.credly.com/badges/07f1d2bb-648b-4b16-8f11-5362fc7a4760/public_url',            // Introduction to Cybersecurity
+    python1: 'https://www.credly.com/badges/8f73d7ab-2d7e-4cab-8867-c6b69d9e75c6/public_url',                        // Python Essentials 1
+    python2: 'https://www.credly.com/badges/622b856c-9346-4cd4-828d-8a603b5a3705/public_url'                         // Python Essentials 2
   };
   // ===============================================
   
